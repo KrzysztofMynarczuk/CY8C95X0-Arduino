@@ -84,7 +84,7 @@ void CY8C95X0::begin(uint8_t chip, uint8_t A)
     case 40:
       pin_c = 40;
       pwm_c = 8;
-      group_c = 5;
+      group_c = 6;
       break;
     case 60:
       pin_c = 60;
